@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiClientSwaggerExample", "RestApiClientSwaggerExample\RestApiClientSwaggerExample.csproj", "{D15CEB4C-EEEE-429D-A5B1-BFEC34071C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiTest", "RestApiTest\RestApiTest.csproj", "{9B13C6C3-6DCF-451A-8358-1440F1F9B1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15CEB4C-EEEE-429D-A5B1-BFEC34071C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15CEB4C-EEEE-429D-A5B1-BFEC34071C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15CEB4C-EEEE-429D-A5B1-BFEC34071C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15CEB4C-EEEE-429D-A5B1-BFEC34071C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B13C6C3-6DCF-451A-8358-1440F1F9B1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B13C6C3-6DCF-451A-8358-1440F1F9B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B13C6C3-6DCF-451A-8358-1440F1F9B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B13C6C3-6DCF-451A-8358-1440F1F9B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36D37CD-8E43-4DDF-B6CB-8F3B0A25922B}
+	EndGlobalSection
+EndGlobal
